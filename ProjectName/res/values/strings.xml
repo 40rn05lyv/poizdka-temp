@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApplicationName</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ПОЇЗДка</string>
+    <string name="title_activity_subcategory">Subcathegory</string>
+    <string name="title_activity_main_activity2">ПОЇЗДка2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actions">Actions</string>
+
+</resources>
